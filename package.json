@@ -9,6 +9,10 @@
     "deploy": "gh-pages -d dist"
   },
   "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^6.7.2",
+    "@fortawesome/free-brands-svg-icons": "^6.7.2",
+    "@fortawesome/vue-fontawesome": "^3.0.8",
+    "aos": "^2.3.4",
     "core-js": "^3.8.3",
     "vue": "^3.2.13"
   },
